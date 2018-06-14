@@ -1,2 +1,2 @@
 # RemoveUntaggedDockerImages
-Remove docker images without a uesr-defined tag
+Remove docker images without a user-defined tag
